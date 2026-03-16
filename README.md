@@ -22,7 +22,7 @@ The goal of the project was to analyze these factors and build an interactive da
 ![Dashboard](visuals/dashboard_preview.png)
 
 ## Dataset
-The dataset used in this project is stored in the data folder.
+The dataset used in this project has been uploaded.
 
 ## Author
 Andrew Kazembe
